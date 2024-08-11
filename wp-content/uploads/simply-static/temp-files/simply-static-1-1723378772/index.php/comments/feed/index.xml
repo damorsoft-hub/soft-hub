@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for software hub	</title>
-	<atom:link href="/https://damorsoft-hub.github.io/soft-hub//index.php/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://damorsoft-hub.github.io/soft-hub/</link>
+	<atom:link href="https://damorsoft-hub.github.io/soft-hub/index.php/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://damorsoft-hub.github.io/soft-hub</link>
 	<description></description>
 	<lastBuildDate>Sun, 11 Aug 2024 11:41:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>/https://damorsoft-hub.github.io/soft-hub//index.php/2024/08/11/hello-world/#comment-1</link>
+		<link>https://damorsoft-hub.github.io/soft-hub/index.php/2024/08/11/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 11 Aug 2024 11:41:55 +0000</pubDate>
-		<guid isPermaLink="false">/https://damorsoft-hub.github.io/soft-hub//?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://damorsoft-hub.github.io/soft-hub/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

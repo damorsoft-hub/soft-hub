@@ -9,8 +9,8 @@
 
 <channel>
 	<title>hubsoft &#8211; software hub</title>
-	<atom:link href="/https://damorsoft-hub.github.io/soft-hub//index.php/author/hubsoft/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://damorsoft-hub.github.io/soft-hub/</link>
+	<atom:link href="https://damorsoft-hub.github.io/soft-hub/index.php/author/hubsoft/feed/" rel="self" type="application/rss+xml" />
+	<link>https://damorsoft-hub.github.io/soft-hub</link>
 	<description></description>
 	<lastBuildDate>Sun, 11 Aug 2024 11:41:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/https://damorsoft-hub.github.io/soft-hub//index.php/2024/08/11/hello-world/</link>
-					<comments>/https://damorsoft-hub.github.io/soft-hub//index.php/2024/08/11/hello-world/#comments</comments>
+		<link>https://damorsoft-hub.github.io/soft-hub/index.php/2024/08/11/hello-world/</link>
+					<comments>https://damorsoft-hub.github.io/soft-hub/index.php/2024/08/11/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[hubsoft]]></dc:creator>
 		<pubDate>Sun, 11 Aug 2024 11:41:55 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/https://damorsoft-hub.github.io/soft-hub//?p=1</guid>
+		<guid isPermaLink="false">https://damorsoft-hub.github.io/soft-hub/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://damorsoft-hub.github.io/soft-hub//index.php/2024/08/11/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://damorsoft-hub.github.io/soft-hub/index.php/2024/08/11/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
